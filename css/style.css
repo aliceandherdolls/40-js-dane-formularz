@@ -1,0 +1,26 @@
+body {
+    background-color: papayawhip;
+
+}
+
+
+#data {
+    color: rgb(179, 112, 112);
+}
+
+#name {
+    color: rgb(69, 116, 79);
+
+}
+
+#surname {
+    color: rgb(65, 151, 151);
+}
+
+#phone {
+    color: rgb(236, 54, 212)
+}
+
+button {
+    color: blueviolet
+}
